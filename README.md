@@ -3,6 +3,8 @@
 ## Project Overview
 This is a simple Tic Tac Toe game implemented in Java using Swing for the GUI. It supports two players taking turns and detects wins or draws dynamically.
 
+![Tic Tac Toe Screenshot](./TicTacToe.png)
+
 ## How to Run
 1. Ensure you have Java JDK installed.
 2. Compile the code with: `javac TicTacToe.java`
